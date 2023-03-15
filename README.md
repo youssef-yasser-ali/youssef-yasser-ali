@@ -1,4 +1,3 @@
-
 <img align="right" src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" height="300"/>
 
 <h2 align="center">Hi 👋, I'm Youssef</h2>
@@ -9,7 +8,7 @@
 
 - I love to learn new things and apply them in real-world problems.
 
-### Connect with me:
+## Connect with me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/youssef-yasser-ali/">
@@ -26,7 +25,7 @@
   </a>
 </div>
 
-### Skills 💻
+## Skills 💻
 
 <div align="center">
 
@@ -63,9 +62,8 @@
 </div>
 
 
-### Github Stats :
+## Github Stats :
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&show_icons=true&theme=radical" align="center" >
 
 </div>
-
