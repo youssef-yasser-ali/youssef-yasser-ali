@@ -61,9 +61,14 @@
 
 </div>
 
-
 ## Github Stats :
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&show_icons=true&theme=radical" align="center" >
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&show_icons=true&=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="youssef's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-yasser-ali&show_icons=true&=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="37%" alt="youssef's Top Languages">
 
 </div>
