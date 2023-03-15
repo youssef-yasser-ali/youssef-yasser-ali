@@ -1,7 +1,7 @@
 
 <img align="right" src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" height="300"/>
 
-<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h2 align="center">Hi 👋, I'm Youssef</h2>
  
 - a Computer and Control Systems Engineering student at Mansoura University
 
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-## Skills 💻
+### Skills 💻
 
 <div align="center">
 
