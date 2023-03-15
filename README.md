@@ -62,8 +62,10 @@
 
 </div>
 
+
 ### Github Stats :
 
-[<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center" >](https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&show_icons=true&theme=radical)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&show_icons=true&theme=radical" align="center" >
 
 </div>
+
