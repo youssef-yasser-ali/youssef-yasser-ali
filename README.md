@@ -63,6 +63,6 @@
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=youssef-yasser-ali&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" alt="Youssef's GitHub "  style="max-width: 60%;">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-yasser-ali&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" width="37%" alt="youssef's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-yasser-ali&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" width="37%" alt="youssef's Top Languages"> 
 
 </div>
