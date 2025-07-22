@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Youssef 
  
-- a Computer and Control Systems Engineering student at Mansoura University
+- AI Engineer
 
 - I'm a software engineer with a strong passion for the fields of artificial intelligence and machine learning.
 
